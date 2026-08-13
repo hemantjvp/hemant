@@ -9,3 +9,5 @@ use schema newgitdb.public;
 
 create or replace table mytab (id int);
 insert into mytab values (100);
+
+--end of demo
